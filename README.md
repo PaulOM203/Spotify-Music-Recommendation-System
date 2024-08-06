@@ -1,3 +1,5 @@
+![Spotify Banner Image.](https://cdn2.steamgriddb.com/hero_thumb/61f5727176d8301926b7c19064396eb6.jpg)
+
 # Spotify-Music-Recommendation-System
 This project leverages the Spotify API and advanced machine learning techniques to create a system that provides personalized song recommendations based on user preferences and listening history.
 
