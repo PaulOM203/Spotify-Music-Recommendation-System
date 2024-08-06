@@ -11,10 +11,9 @@ In the age of digital music streaming, personalized recommendations have become 
    - The system aims to suggest new tracks that align with their tastes and interaction with the platform such as songs played, liked, skipped etc. and continously update the recommendations as the user's listening habits evolve. 
 2. *Hybrid Recommendation Model:*
    - Combines collaborative filtering and content-based filtering to provide a more accuracte and diverse recommendation model that considers both user preferences and song features. 
-3. *Interactive Web Interface:*
-   - Allows users to interact with the system and receive real-time recommendations.
-4. *Scalable Deployment:*
-   - Ready to be deployed on cloud platforms for handling large-scale user data.
+3. *Audio Feature Analysis:*
+   - Extract and analyse audio features such as key, tempo, danceability, energy, lyrics etc.
+   - Build a comprehensive profile for each song to aid in the recommendation process. 
 
 ## Data Collection
 ### Sources
