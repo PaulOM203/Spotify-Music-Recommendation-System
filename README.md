@@ -17,8 +17,8 @@ In the age of digital music streaming, personalized recommendations have become 
 
 ## Data Collection
 ### Sources
-- *Spotify API:* Used to collect song features (e.g., danceability, energy, loudness, tempo) and metadata (e.g., artist, album, genre).
-- *User Interaction Data:* Synthetic data or real data (with user consent) on user playlists, ratings, and listening history.
+- *Spotify API:* The Spotify API provides access to an extensive database of music and for the purpose of this project, we can gather detailed information about songs, artists, albums and user playlists. The API is rich in metadata which makes it suitable for building a robust recommendation system.
+- *User Interaction Data:* This will provide insights into user preferences and listening habits when using the platform and is essential for training collaborative filtering models when diverse information is available through the API.
 
 ## Data Processing
 Data processing involves cleaning, normalizing, and feature engineering to prepare the data for model training.
